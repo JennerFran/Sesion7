@@ -8,3 +8,4 @@ hist(x)
 
 length(x)
 sum(x^2)
+sum(x^3)
